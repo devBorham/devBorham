@@ -1,4 +1,4 @@
-[![Borhamy]()](https://rishavchanda.io)
+[![Borhamy](https://media.discordapp.net/attachments/939636031005818930/941263222026158081/4.jpg)](https://rishavchanda.io)
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 

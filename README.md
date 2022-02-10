@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **DrawBot**
+- I’m currently working on **Pearl**
 
-- 🌱 I’m currently studying **Math**
+- I’m currently studying **Math**
 
-- 💬 Ask me about **JavaScript , Discord.js**
+- Javascript/Typescript enthusiast!
 
-- 📫 How to reach me **devborham@gmail.com**
+- Small content creator on youtube, enjoys youtube videos.
 
-- ⚡ Fun fact **You can't kill yourself by holding your breath**
+- Self taught programmer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

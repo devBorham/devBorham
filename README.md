@@ -1,4 +1,4 @@
-[![Borhamy](https://media.discordapp.net/attachments/892476697155354685/926056744474538005/8cea445b24164fe45e2e1485d9b8ba0f.jpg)](https://rishavchanda.io)
+[![Borhamy](https://media.discordapp.net/attachments/892476697155354685/905550836946591774/a4475c6a434760f50320a23b4a0e00b6.gif)](https://rishavchanda.io)
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
